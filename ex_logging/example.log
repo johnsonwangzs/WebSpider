@@ -1,0 +1,5 @@
+DEBUG:root:Python debug
+INFO:root:Python info
+WARNING:root:Python warning
+ERROR:root:Python Error
+CRITICAL:root:Python critical
