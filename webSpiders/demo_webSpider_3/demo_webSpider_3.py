@@ -77,7 +77,7 @@ def save_data(data, collection):
 
 def subprocess(page):
     """
-    紫禁城
+    子进程
     :param page: 某一页面（每个子进程负责一个页面的爬取）
     :return:
     """
